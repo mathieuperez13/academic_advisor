@@ -1,0 +1,38 @@
+Syllabus for MACH 201
+Introduction to Machine Learning
+Course ID: COMP 1011-004
+Instructor: Dr. Thomas Perez
+Course Description and Level:
+Introduction to Programming - This course is designed for beginners and provides the foundational skills in computer programming using Python. Students will learn to write simple to moderate complexity programs and understand basic software development concepts.
+
+Class Structure:
+- Use of time: Classes will be held twice a week with one additional lab session. Lectures focus on theory and examples, while lab sessions are hands-on coding.
+- In-person instruction is continued, emphasizing community building, immediate feedback, and transparency in course goals using Canvas.
+- Lecture role: To introduce new concepts and methodologies.
+- Lab role: Application of lecture concepts in real programming tasks.
+- Seminar role: Weekly seminars for discussing complex problems and solutions.
+- Expectations for participation: Active involvement in lectures, labs, and seminars is required.
+
+Out-of-class Activities:
+- Weekly reading from the textbook and online resources.
+- Coding exercises and small projects to be completed before lab sessions.
+- Bi-weekly group projects that encourage collaboration among students.
+- Participation in discussion forums on Canvas for each week's topics.
+- Viewing supplementary tutorial videos to enhance understanding of complex concepts.
+
+Outline of Assignments & Assessments:
+- Types of assignments: Weekly programming exercises, bi-weekly group projects, and three major individual projects.
+- Frequency of assessments: Quizzes bi-weekly, mid-term, and final exams.
+- Points of value: Quizzes (20%), Projects (30%), Mid-term (20%), Final Exam (30%).
+
+Essential Course Policies:
+- Required books: "Python Programming: An Introduction to Computer Science" by John Zelle.
+- Additional required equipment: Personal laptop compliant with software requirements specified on Canvas.
+- All students are encouraged to consult with Student Financial Services for potential support with course costs.
+
+Note: Attendance is mandatory unless due to health issues. Students with disabilities are encouraged to contact Student Disability Services for accommodations early in the semester. Academic integrity will be strictly enforced, with clear guidelines on collaboration and permissible resources.
+
+Course Goals:
+- Understand basic programming concepts and apply them to solve real-world problems.
+- Develop critical thinking and problem-solving skills through computational projects.
+- Engage in collaborative learning and develop communication skills relevant to the tech industry.

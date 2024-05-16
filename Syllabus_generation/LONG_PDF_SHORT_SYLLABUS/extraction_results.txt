@@ -1,0 +1,354 @@
+Page 1:
+Syllabus for ECON 001
+Introduction to Microeconomics
+Term: Fall 2020
+Instructor: Dr. Anne Duchene
+E-mail: econ-001@sas.upenn.edu
+Oce Hours: TBD
+1
+Course Description:
+Welcome to Econ 001! This is an introductory undergraduate course that teaches the fundamentals of micro-
+economics. Microeconomics is the study of how individuals, households, rms and governments make choices,
+and how these choices aect prices, the allocation of resources and the well-being of all agents. The course will
+be divided in 4 sections:
+1. Section I: We will start with an introduction to core principles, followed by the market forces of supply
+and demand. Then we will then delve behind the demand curve to see how consumers behave, and behind
+the supply curve to see how producers behave, culminating in the model of perfect competition.
+2. Section II: The second section will be focused on government intervention in perfectly competitive markets.
+3. Section III: We will then study market failures, such as externalities, public goods, and market power.
+4. Section IV: We will end the semester studying the market for labor and economic inequality.
+2
+Course Structure:
+1. Lectures (asynchronous): all lectures will be delivered via short videos embedded in reading assignments
+(in the e-book described in section 3). Every week you will have to complete reading assignments and
+watch these videos, but you can do that whenever you wish before the weekly deadline (not necessarily
+during lecture time).
+2. Recitations (synchronous): we will divide recitation sections in half to create smaller groups, and you will
+meet with your TA every other week in recitation (on Zoom).
+3. Oce hours (synchronous):
+• Every other week when you don't have recitation, you will meet informally with your TA during
+Zoom oce hours. Your TA will arrange their oce hours to t your schedule.
+• I will hold 3 synchronous oce hours and 1 asynchronous Q&A session on Zoom every week.
+3
+Required Materials:
+3.1
+For reading assignments and lecture videos:
+• We will use the custom-built e-book "Principles of Economics" on Top Hat (ISBN: 978-1-77330-093-1).
+Don't worry if you don't see any content in the course right away, I will make it available to you as we
+progress through the semester. Embedded in this text are short lecture videos as well as multiple choice
+questions pertaining to the readings, which will be factored into your overall grade for the course.
+page 1 of 6
+
+
+Page 2:
+ECON 001 Introduction to Microeconomics
+Fall 2020
+• When setting up your account, you MUST use your Penn ID(@upenn.edu) email address. Using an other
+email address will result in you receiving NO credit for the Top Hat homework. An email invitation will
+be sent to you by email and will be posted on Canvas. If you select the one-semester subscription option,
+you will be charged a total of $71 by Top Hat. You can also buy access cards from the Penn bookstore,
+but subject to a price mark-up. If you run into any problems signing for Top Hat or gaining access to the
+course, email support@tophat.com.
+3.2
+For communications:
+• We will use Canvas to post announcements, reminders, course material, grades, and for discussion boards.
+• On a daily basis, we will communicate through the (free) Slate add-in to your Top Hat site, or the Slate
+Top Hat app. Slate will have direct communication between the Econ 1 team and the students, and also
+between students. An email will be sent at the beginning of the semester on how to join Slate from Top
+Hat.
+• We will use Zoom for oce hours and recitations.
+• E-mail may also be used if you have more personal questions: econ-001@sas.upenn.edu
+4
+Assessments:
+Assignment Type
+Due Date
+Total Points
+Homework
+Reading Assignments
+Every Wednesday 11:59PM EDT
+12
+24
+Group Homework
+Every Other Wednesday 11:59PM EDT
+12
+Participation
+Canvas
+Random
+8
+11
+Slate
+Random
+3
+Tests
+Quizzes
+Every Monday 11:59AM EDT
+50
+75
+Final Exam
+TBD
+25
+At the end of the semester, there will be a maximum of 110 cumulative points. To allow exibility, your
+course grade will be 100% as long as you accrue at least 100 points. If you accrue less than 100 points, we will
+keep your grade as is. If you accumulate more than 100 points, good for you! Nonetheless, the maximum credit
+is 100 points. The nal average/letter grade scale is:
+• A+/A/A- range: 97% to 100% / 93% to 96.9% / 90% to 92.9%
+• B+ / B /B- range: 87% to 89.9% / 83% to 86.9% / 80% to 82.9%
+• C+ / C / C- range: 77% to 79.9% / 73% to 76.9% / 70% to 72.9%
+• D+ / D range: 67% to 69.9% / 60% to 66.9%
+• F range: 59.9% and below.
+Percentage course grades will not be curved nor rounded : 89.9% is a B+, a 79.9% is a C+, etc. If I feel that a
+curve is necessary for the nal, it will announced on Canvas when exam grades are posted.
+page 2 of 6
+
+
+Page 3:
+ECON 001 Introduction to Microeconomics
+Fall 2020
+4.1
+Homework
+All due dates are on the last page of the syllabus. Given the generous grading (see part 4), we are strict with the
+due dates, so you should not leave the submission to the last hour of the due date.
+• Reading Assignments (with in-chapter questions):
+ Due every Wednesday at 11:59PM EDT.
+ Every week you will have reading assignments in the e-book. Within each reading assignment will be
+embedded mini lecture videos and multiple choice questions that you will have to answer. Most of
+the videos are edited from last year's lectures, in order to preserve the energy and atmosphere that
+you would get in a classroom. Reading assignments will be available a week in advance.
+ Grading: You will be graded on your completion of the questions, rather than the accuracy of your
+answers. So you can take these assignments seriously and complete them as they are intended (to
+help with your comprehension), or you can just fake your way through these assignmentsit's up
+to you as an adult learner. There are a total of 480 questions (each worth 0.025 points), so these
+questions are worth 12 completion points overall.
+• Group Homework:
+ Due every other Wednesday at 11:59PM EDT.
+ Every other week, you will be grouped with 2 or 3 other students to work together on a problem set.
+You will have to submit your answers as a group on Canvas 2 weeks later. You will be able to work as
+a group in breakout rooms during recitation and oce hours. You should also use the recitation time
+when you don't meet with your TA to meet with your group members. Keep in good communication
+with your group members. If your name is left o of your group's homework, we will assume that
+you didn't contribute, so you won't get any credit. So make sure you contribute, and make sure you
+get credit for your contributions. These assignments will be posted two weeks before their due date.
+Late homework will not be accepted.
+ Grading: You will be graded based on eort, on a scale of 0 to 2 (0= not answered / not submitted
+/ submitted late, 1 = some eort but incomplete, 2 = excellent eort). There will be a total of 6
+group homeworks, worth 12 points overall.
+4.2
+Participation
+• Canvas:
+ Due at least every other week.
+ We expect you to participate regularly on Canvas discussion boards (within your recitation section).
+Here are two examples:
+∗ At least every other week, we will ask you to nd a podcast or news article related to the previous
+week's topics and post it on Canvas. This is meant to help you relate the theories we will study
+to the real world.
+∗ At the end of each section of the course, we will also ask you to describe a topic that you found
+challenging in that section, and explain how you were able to overcome it.
+ Grading: you will be graded on participation  full participation you will give you full credit (8
+points), irregular participation will give you partial credit.
+page 3 of 6
+
+
+Page 4:
+ECON 001 Introduction to Microeconomics
+Fall 2020
+• Slate:
+ Due at least once a week.
+ Every week we expect you to post on Slate. These posts do not have to be related to the course
+material! They are meant to build the Econ 1 community.
+ Grading: you will be graded on participation  weekly participation you will give you full credit (3
+points), irregular participation will give you partial credit.
+4.3
+Tests:
+• Quizzes:
+ 24 hours window (from Sunday 11:59AM EDT to Monday 11:59AM EDT), timed for 30 minutes.
+ At the end of each week, you will have a Canvas quiz on the week's topics. The quiz will have 3-4
+multiple choice questions and 1 problem set (with ll-in the blanks questions).
+ Grading: Each quiz will be worth 5 correctness points (50 points overall)
+• Final exam:
+ Date TBD. The exam will be timed (2 hours) with a 24-hour window to take it.
+ The nal exam will be on Canvas, with about 10 multiple choice questions and about 5 (short)
+short-answer questions.
+ Grading: The nal exam will be worth 25 points.
+5
+How to succeed in Econ 001:
+• Overall you should expect to spend about 8-10 hours per week studying for Econ 001. The key is regularity!
+You should make sure you have a routine and study on a daily basis.
+• On a typical week:
+ Monday: do the reading assignment, watch the videos and answer the in-chapter questions. Try to
+get the main ideas: what are the topics, what are the issues, and what are the main questions? What
+will the graphs look like, what will the equations look like? What is the main message?
+ Tuesday: start practicing for the quiz using old exam questions on the week's topics, and / or work
+on your group homework. Go back to the textbook if you need to read it more carefully and in depth
+(but do not try to memorize it!). Write down what seems unclear, keep it for oce hours or post a
+question on the Canvas discussion board or on Slate.
+ Wednesday: like Monday.
+ Thursday / Friday: Attend recitation, keep working with your group mates.
+ Saturday: practice for the quiz.
+ Sunday: take the quiz.
+• Throughout the semester:
+page 4 of 6
+
+
+Page 5:
+ECON 001 Introduction to Microeconomics
+Fall 2020
+ Get feedback as soon as you can: look up answers to homework as soon as they are released. Ask me
+or your TA if there is something you don't understand. The sooner you get the feedback, the more
+solid the material will be in your mind.
+ Take advantage of group homework to form a study group and make it a habit to meet at the same
+time each week. You will learn a lot more if you are forced to explain things to classmates in your
+own words. But always make sure that you try to answer the questions before you meet your study
+partners. That way you will honestly know what you do and do not understand.
+ Practice! There is nothing like solving more and more questions to get the hang of this stu. You
+will be given a link to copies of Econ 001 old exams with solutions on Canvas. Make sure you work
+them and fully understand them. However, do not memorize answers, it will be useless! When you
+practice, you must think of what you are doing and why. We ask for analysis and critical thinking
+on exams, not just memorization. You cannot succeed in Econ 001 if you are on auto-pilot.
+ If you nd yourself falling behind, please reach out to us. We are here to help and we want you to
+succeed!
+6
+Class Policy:
+This syllabus is a contract. Deviation from these policies is not allowed.
+6.1
+Attendance
+• While we expect you to attend recitations and oce hours, we understand that there may be enormous
+extenuating circumstances that may prevent you from attending live sessions. If there is anything that
+prevents you from attending synchronous meetings on a regular basis, please email your TA to let them
+know. If you expect to be absent for ve days or less, you should use the Course Absence Report System.
+• If you miss a recitation we expect you to contact your TA and the members of your group homework to
+catch up.
+6.2
+Homework
+• No late submission.
+You have several days to submit each homework assignment; do not leave the
+submission to the last hour of the last day that it is due.
+• As mentioned above for group homework: Keep in good communication with your group members. If your
+name is left o of your group's homework, we will assume that you didn't contribute, so you won't get any
+credit.
+• No extra credit: there is no extra credit in this course. The reason is that if everyone knows about it, it's
+not really extra credit. It's just another assignment. If some people don't know about it (for instance, if a
+specic student asks for extra credit at the end of the semester), then I'm treating my students dierently,
+which I make every attempt to avoid.
+6.3
+Tests
+• Tests (quizzes and nal exam) are open book, open notes.
+• They are given under the rules of Penn's Honor system (see below)  we expect independent work.
+page 5 of 6
+
+
+Page 6:
+ECON 001 Introduction to Microeconomics
+Fall 2020
+6.4
+Academic Integrity
+• You are expected to be familiar with and comply with Penn's Code of Academic Integrity: Code of
+Academic Integrity. It's your responsibility to follow it to the letter. In particular, you are expected to
+maintain a professional, respectful environment; be courteous to your TA and your classmates; show up
+on time to meetings; Never present work that is not your own.
+• Please refer to the Economics department policies.
+Tentative course outline by week:
+Week
+Dates
+Reading Assignments (due Wednesday)
+Quizzes
+Group HW
+1
+8/31-9/6
+Introduction
+2
+9/7-9/13
+Core Principles of Economics
+3
+9/14-9/20
+Supply and Demand
+Consumer Choice part I
+1 (9/20-21)
+4
+9/21-9/27
+Consumer Choice part II
+Consumer Choice part III
+2 (9/27-28)
+1 (9/23)
+5
+9/28-10/4
+Seller Choice part I
+Seller Choice part II
+6
+10/5-10/11
+Seller Choice part III
+Review of Section 1
+3 (10/11-12)
+2 (10/7)
+7
+10/12-10/18
+Eciency and Equity
+Price Controls
+4 (10/18-19)
+8
+10/19-10/25
+Taxes and Subsidies
+Trade part I
+5 (10/25-26)
+3 (10/21)
+9
+10/26-11/1
+Trade part II
+Review of Section 2
+6 (11/1-2)
+10
+11/2-11/8
+Externalities
+Public Goods
+7 (11/8-9)
+4 (11/4)
+11
+11/9-11/15
+Monopoly part I
+Monopoly part II
+8 (11/15-16)
+12
+11/16-11/22
+Monopolistic Competition
+Game Theory / Oligopoly
+9 (11/22-23)
+5 (11/18)
+13
+11/23-11/29
+Review of Section 3
+14
+11/30-12/6
+Labor Markets part I
+Labor Markets part II
+10 (12/6-7)
+15
+12/7-12/10
+Inequality
+Review of Section 4
+6 (12/9)
+Topics by Quiz number
+Topics by Group HW number
+1: Core Principles, Supply and Demand, Consumer Choice
+part I
+1: Core Principles, Supply and Demand, Consumer Choice
+part I
+2: Consumer Choice parts II and III
+2: Consumer Choice parts II and III, Seller Choice parts I
+and II
+3: Seller Choice parts I, II and III
+3:
+Seller Choice part III, Eciency and Equity, Price
+Controls
+4: Eciency and Equity, Price Controls
+4: Taxes and Subsidies, Trade parts I and II
+5: Taxes and Subsidies, Trade part I
+5: Externalities, Public Goods, Monopoly parts I and II
+6: Trade Part II
+6: Monopolistic Competition, Oligopoly, Labor Markets
+parts I and II
+7: Externalities, Public Goods
+8: Monopoly parts I and II
+9: Monopolistic Competition, Oligopoly
+10: Labor Markets parts I and II
+page 6 of 6
+
+
